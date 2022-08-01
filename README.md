@@ -1,4 +1,4 @@
-# Cat Supply Store Project
+# Cat Supply Store Website
 
 # Overview
   User can add products to shopping cart and edit shopping cart.
