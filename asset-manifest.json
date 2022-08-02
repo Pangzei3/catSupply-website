@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/catSupply-website/static/css/main.9f8aed6c.css",
+    "main.js": "/catSupply-website/static/js/main.012d7f70.js",
+    "static/media/litter5.jpg": "/catSupply-website/static/media/litter5.a710dfa44d82ebad4fe7.jpg",
+    "static/media/food5.jpg": "/catSupply-website/static/media/food5.5e263e2baf3c71f1f3c2.jpg",
+    "static/media/litter3.jpg": "/catSupply-website/static/media/litter3.8c0c29a59975b9262985.jpg",
+    "static/media/food4.jpg": "/catSupply-website/static/media/food4.802c0dc05657aaa7c596.jpg",
+    "static/media/food1.jpg": "/catSupply-website/static/media/food1.7d04457e8f8807d00119.jpg",
+    "static/media/food2.jpg": "/catSupply-website/static/media/food2.a2dbd277f1c0f7b8c6d5.jpg",
+    "static/media/food3.jpg": "/catSupply-website/static/media/food3.940be6a0c88e781ecaf5.jpg",
+    "static/media/supply2.jpg": "/catSupply-website/static/media/supply2.f30f4dbe690207eb0836.jpg",
+    "static/media/supply4.jpg": "/catSupply-website/static/media/supply4.e7a40c19fa909cc09c8f.jpg",
+    "static/media/supply5.jpg": "/catSupply-website/static/media/supply5.b85ba6c406fb3a8b217b.jpg",
+    "static/media/supply1.jpg": "/catSupply-website/static/media/supply1.b412d001c733a1013c00.jpg",
+    "static/media/litter1.jpg": "/catSupply-website/static/media/litter1.51722098433d441e2761.jpg",
+    "static/media/litter2.jpg": "/catSupply-website/static/media/litter2.0e4d8a3508f81ef414f8.jpg",
+    "static/media/litter4.jpg": "/catSupply-website/static/media/litter4.fd0f6b6a7b748e6b5caa.jpg",
+    "static/media/supply3.jpg": "/catSupply-website/static/media/supply3.dbda9e4d53006f4a2c95.jpg",
+    "index.html": "/catSupply-website/index.html",
+    "main.9f8aed6c.css.map": "/catSupply-website/static/css/main.9f8aed6c.css.map",
+    "main.012d7f70.js.map": "/catSupply-website/static/js/main.012d7f70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8aed6c.css",
+    "static/js/main.012d7f70.js"
+  ]
+}
